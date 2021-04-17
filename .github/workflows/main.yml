@@ -30,7 +30,7 @@ jobs:
         with:
           version: 14
 
-      - name: Install Packages with lock json
+      - name: Install Packages
         run: npm install
         
       - name: Creating Build
