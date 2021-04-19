@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-image: url("./images/background.png");
+  background-size: cover;
+  margin: 0;
+  padding: 0 20px;
+  display: flex;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Bebas Neue", cursive;
+}
+
+.heading {
+  color: #cdcdcd;
+  font-size: 7vw;
+  margin: 0 auto;
+}
+
+.start {
+  color: #cdcdcd;
+  width: 100px;
+  height: 50px;
+  font-size: x-large;
+}
+
+.score {
+  font-size: 3vw;
+  color: #cdcdcd;
+}
+
+.number {
+  color: #cdcdcd;
+  font-size: 3vw;
+}
+
+.question {
+  color: #cdcdcd;
+  font-size: 3vw;
+}
+
+.options {
+  color: #cdcdcd;
+  margin-bottom: 10px;
+  font-size: x-large;
+}
+
+.next {
+  color: #cdcdcd;
+  font-size: x-large;
+}
