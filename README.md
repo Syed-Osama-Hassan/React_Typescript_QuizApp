@@ -1,7 +1,6 @@
 # Project Link
 
 http://quizapp-react-typescript.surge.sh/
-Project is in progress
 
 # Getting Started with Create React App
 
